@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SortSmart</string>
+    <string name="app_tagline">Smart Waste · Eco Walk</string>
+
+    <!-- MainActivity -->
+    <string name="search_hint">Search waste item…</string>
+    <string name="btn_search">Search</string>
+    <string name="recent_waste_title">Recent Waste</string>
+    <string name="no_recent_waste">No disposals yet. Start your first Eco Walk!</string>
+    <string name="eco_summary_title">Your Eco Impact</string>
+    <string name="label_co2e_avoided">CO₂e Avoided</string>
+    <string name="label_items_disposed">Items Disposed</string>
+    <string name="btn_view_impact">View Eco Impact</string>
+    <string name="switch_walk_tracking">Walk Tracking</string>
+    <string name="filter_title">Filter Collection Points</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_km">km</string>
+    <string name="unit_m">m</string>
+
+    <!-- WasteResultActivity (stub for now) -->
+    <string name="waste_info_title">Waste Information</string>
+    <string name="label_category">Category</string>
+    <string name="label_disposal_method">Disposal Method</string>
+    <string name="label_warning">Warning</string>
+    <string name="label_co2e_benefit">Estimated CO₂e Benefit</string>
+    <string name="btn_find_point">Find Collection Point</string>
+
+    <!-- EcoWalkActivity (stub for now) -->
+    <string name="eco_walk_title">Eco Walk</string>
+    <string name="btn_finish_disposal">Finish Disposal</string>
+    <string name="status_walking">Walking</string>
+    <string name="status_stationary">Stationary</string>
+
+    <!-- Misc -->
+    <string name="no_results">No results for that search.</string>
+    <string name="content_desc_waste_icon">Waste category icon</string>
+</resources>

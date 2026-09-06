@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SortSmart" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Primary brand colour -->
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryDark">@color/green_primary_dark</item>
+        <item name="colorPrimaryVariant">@color/green_primary_dark</item>
+
+        <!-- Secondary / accent -->
+        <item name="colorSecondary">@color/teal_secondary</item>
+        <item name="colorSecondaryVariant">@color/teal_light</item>
+
+        <!-- Backgrounds -->
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+
+        <!-- Text on primary (toolbar text, buttons) -->
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+
+        <!-- Status bar colour -->
+        <item name="android:statusBarColor">@color/green_primary_dark</item>
+    </style>
+</resources>

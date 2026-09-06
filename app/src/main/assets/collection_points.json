@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "City Plastic Recycling Point",
+    "latitude": 50.721234,
+    "longitude": 10.453210,
+    "acceptedCategories": ["Plastic"]
+  },
+  {
+    "id": 2,
+    "name": "Downtown Battery Collection",
+    "latitude": 50.725431,
+    "longitude": 10.461230,
+    "acceptedCategories": ["Hazardous Waste"]
+  },
+  {
+    "id": 3,
+    "name": "Central Glass Bank",
+    "latitude": 50.718900,
+    "longitude": 10.448760,
+    "acceptedCategories": ["Glass"]
+  },
+  {
+    "id": 4,
+    "name": "Paper & Cardboard Depot",
+    "latitude": 50.723100,
+    "longitude": 10.455000,
+    "acceptedCategories": ["Paper"]
+  },
+  {
+    "id": 5,
+    "name": "E-Waste Collection Centre",
+    "latitude": 50.719500,
+    "longitude": 10.470000,
+    "acceptedCategories": ["Electronic"]
+  },
+  {
+    "id": 6,
+    "name": "Community Recycling Hub",
+    "latitude": 50.727000,
+    "longitude": 10.444000,
+    "acceptedCategories": ["Plastic", "Glass", "Paper", "Metal"]
+  },
+  {
+    "id": 7,
+    "name": "Hazardous Waste Depot",
+    "latitude": 50.715000,
+    "longitude": 10.463000,
+    "acceptedCategories": ["Hazardous Waste"]
+  },
+  {
+    "id": 8,
+    "name": "Metal Scrap Point",
+    "latitude": 50.730000,
+    "longitude": 10.458000,
+    "acceptedCategories": ["Metal"]
+  },
+  {
+    "id": 9,
+    "name": "Compost Drop-Off",
+    "latitude": 50.722000,
+    "longitude": 10.440000,
+    "acceptedCategories": ["Organic"]
+  },
+  {
+    "id": 10,
+    "name": "Clothing & Textile Bank",
+    "latitude": 50.724500,
+    "longitude": 10.467000,
+    "acceptedCategories": ["Textile"]
+  }
+]

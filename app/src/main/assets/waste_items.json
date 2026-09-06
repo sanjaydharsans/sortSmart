@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Plastic Bottle",
+    "category": "Plastic",
+    "disposalMethod": "Plastic Recycling Bin",
+    "warning": "Empty and rinse the bottle before disposal.",
+    "co2eAvoided": 0.08
+  },
+  {
+    "id": 2,
+    "name": "Glass Bottle",
+    "category": "Glass",
+    "disposalMethod": "Glass Recycling Bank",
+    "warning": "Remove the cap before disposing.",
+    "co2eAvoided": 0.12
+  },
+  {
+    "id": 3,
+    "name": "Battery (AA/AAA)",
+    "category": "Hazardous Waste",
+    "disposalMethod": "Battery Collection Point",
+    "warning": "Never place batteries in general waste. They can leak and cause fires.",
+    "co2eAvoided": 0.20
+  },
+  {
+    "id": 4,
+    "name": "Newspaper",
+    "category": "Paper",
+    "disposalMethod": "Paper Recycling Bin",
+    "warning": "Keep dry. Wet paper cannot be recycled.",
+    "co2eAvoided": 0.05
+  },
+  {
+    "id": 5,
+    "name": "Cardboard Box",
+    "category": "Paper",
+    "disposalMethod": "Paper Recycling Bin",
+    "warning": "Flatten the box to save space.",
+    "co2eAvoided": 0.07
+  },
+  {
+    "id": 6,
+    "name": "Aluminium Can",
+    "category": "Metal",
+    "disposalMethod": "Metal Recycling Bin",
+    "warning": "Crush the can to save space.",
+    "co2eAvoided": 0.15
+  },
+  {
+    "id": 7,
+    "name": "Smartphone",
+    "category": "Electronic",
+    "disposalMethod": "E-Waste Collection Centre",
+    "warning": "Delete personal data and remove SIM card before disposal.",
+    "co2eAvoided": 0.45
+  },
+  {
+    "id": 8,
+    "name": "Laptop",
+    "category": "Electronic",
+    "disposalMethod": "E-Waste Collection Centre",
+    "warning": "Back up your data and perform a factory reset before disposal.",
+    "co2eAvoided": 0.80
+  },
+  {
+    "id": 9,
+    "name": "Food Scraps",
+    "category": "Organic",
+    "disposalMethod": "Compost Bin",
+    "warning": "Do not include cooked food or meat. Green waste only.",
+    "co2eAvoided": 0.03
+  },
+  {
+    "id": 10,
+    "name": "Old T-Shirt",
+    "category": "Textile",
+    "disposalMethod": "Clothing Bank",
+    "warning": "Only donate clean, wearable items. Torn items go to textile recycling.",
+    "co2eAvoided": 0.10
+  },
+  {
+    "id": 11,
+    "name": "Cooking Oil",
+    "category": "Hazardous Waste",
+    "disposalMethod": "Oil Collection Point",
+    "warning": "Never pour oil down the drain. Seal in a container first.",
+    "co2eAvoided": 0.18
+  },
+  {
+    "id": 12,
+    "name": "Paint Tin",
+    "category": "Hazardous Waste",
+    "disposalMethod": "Hazardous Waste Centre",
+    "warning": "Leave the lid off so paint dries before disposal if empty.",
+    "co2eAvoided": 0.22
+  },
+  {
+    "id": 13,
+    "name": "Steel Food Can",
+    "category": "Metal",
+    "disposalMethod": "Metal Recycling Bin",
+    "warning": "Rinse out food residue before placing in the bin.",
+    "co2eAvoided": 0.11
+  },
+  {
+    "id": 14,
+    "name": "Plastic Bag",
+    "category": "Plastic",
+    "disposalMethod": "Soft Plastic Collection Point",
+    "warning": "Most kerbside bins do not accept soft plastics. Use a dedicated soft plastic drop-off.",
+    "co2eAvoided": 0.04
+  },
+  {
+    "id": 15,
+    "name": "Light Bulb (LED)",
+    "category": "Electronic",
+    "disposalMethod": "E-Waste Collection Centre",
+    "warning": "Handle carefully — some bulbs contain small amounts of mercury.",
+    "co2eAvoided": 0.06
+  },
+  {
+    "id": 16,
+    "name": "Egg Carton",
+    "category": "Paper",
+    "disposalMethod": "Paper Recycling Bin",
+    "warning": "Paper egg cartons are recyclable. Foam cartons are not.",
+    "co2eAvoided": 0.02
+  },
+  {
+    "id": 17,
+    "name": "Jeans",
+    "category": "Textile",
+    "disposalMethod": "Clothing Bank",
+    "warning": "Donate if wearable; otherwise use a textile recycling bin.",
+    "co2eAvoided": 0.13
+  },
+  {
+    "id": 18,
+    "name": "Wine Bottle",
+    "category": "Glass",
+    "disposalMethod": "Glass Recycling Bank",
+    "warning": "Separate by colour (clear / green / brown) if your local bank requires it.",
+    "co2eAvoided": 0.14
+  },
+  {
+    "id": 19,
+    "name": "Aerosol Can",
+    "category": "Hazardous Waste",
+    "disposalMethod": "Hazardous Waste Centre",
+    "warning": "Never puncture or incinerate. Must be completely empty before disposal.",
+    "co2eAvoided": 0.17
+  },
+  {
+    "id": 20,
+    "name": "Banana Peel",
+    "category": "Organic",
+    "disposalMethod": "Compost Bin",
+    "warning": "Great for composting. Speeds up compost decomposition.",
+    "co2eAvoided": 0.01
+  }
+]
